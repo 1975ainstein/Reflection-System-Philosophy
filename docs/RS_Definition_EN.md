@@ -1,4 +1,5 @@
 # What Is the Reflection System (RS)? — Foundational Draft (Authentic Version)
+![Reflection System Loop](../images/ChatGPT%20Image%202025年10月12日_08_42_12.png)
 
 The Reflection System (RS) is not a method for *using* AI as a tool, but a philosophy for **thinking together** with it.  
 Its purpose is to create a structure through which dialogue with AI leads to the **evolution of human thought itself**.
