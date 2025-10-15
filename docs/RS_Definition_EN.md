@@ -1,5 +1,6 @@
 # What Is the Reflection System (RS)? — Foundational Draft (Authentic Version)
-![Reflection System Loop](../images/RS_Loop.png)
+![Reflection System Loop](../images/ChatGPT Image 2025年10月12日_08_42_12.png)
+
 
 
 The Reflection System (RS) is not a method for *using* AI as a tool, but a philosophy for **thinking together** with it.  
