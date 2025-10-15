@@ -1,5 +1,6 @@
 # What Is the Reflection System (RS)? — Foundational Draft (Authentic Version)
-![Reflection System Loop](../images/ChatGPT Image 2025年10月12日_08_42_12.png)
+![Reflection System Loop](../images/ChatGPT%20Image%202025年10月12日_08_42_12.png)
+
 
 
 
