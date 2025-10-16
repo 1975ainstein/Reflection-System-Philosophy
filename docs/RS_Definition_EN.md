@@ -6,6 +6,8 @@
 
 
 
+
+
 The Reflection System (RS) is not a method for *using* AI as a tool, but a philosophy for **thinking together** with it.  
 Its purpose is to create a structure through which dialogue with AI leads to the **evolution of human thought itself**.
 
