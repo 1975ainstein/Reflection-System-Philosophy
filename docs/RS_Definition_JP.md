@@ -1,5 +1,7 @@
 #  Reflection System（RS）とは何か ― 原石メモ（正統版）
-![Reflection System Loop]
+![Reflection System Loop](../RS_Loop.png)
+
+
 
 RS（Reflection System）は、AIを「使う道具」ではなく、**共に考える存在**として捉える思想である。  
 目的は、AIとの対話を通じて**人間の思考そのものを進化させる構造**をつくることにある。
