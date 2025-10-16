@@ -1,5 +1,6 @@
 # What Is the Reflection System (RS)? — Foundational Draft (Authentic Version)![Reflection System Loop](../RS_Loop.png)
-![Reflection System Loop](../RS_Loop.png)
+![Reflection System Loop]
+
 
 
 
